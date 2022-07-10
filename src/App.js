@@ -3,7 +3,7 @@ import Map from './components/Map'
 function App() {
   return (
     <div>
-     <Map/>
+      <h1>Why isn't this working</h1>
     </div>
   );
 }
