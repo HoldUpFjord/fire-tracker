@@ -1,3 +1,5 @@
+// Big problem exists with new update: React 18 causing issues with rendering Google Maps through the current library that is not maintained. Will revist later
+
 import { useState, useEffect } from 'react'
 import Map from './components/Map'
 import Loader from './components/Loader'
